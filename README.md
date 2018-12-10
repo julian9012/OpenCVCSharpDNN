@@ -80,7 +80,7 @@ This is a implementation usage in YoloV3 and Caffe models
                 resultImage.Save(Path.Combine(dir, "result.jpg"));
 
             }
-
+```
 ## Pre-trained models
 You can download the pre-trained models in these links:
 
