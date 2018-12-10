@@ -10,6 +10,7 @@ Example of implementation of YoloV3 and Caffe in [OpenCvSharp](https://github.co
 
 This is a implementation usage in YoloV3 and Caffe models
 
+```C#
             //Directory contains the models and configuration files
             string dir = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "data");
 
